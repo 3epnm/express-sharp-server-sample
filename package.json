@@ -1,0 +1,24 @@
+{
+  "name": "express-sharp-server-sample",
+  "version": "0.0.1",
+  "description": "express-sharp-server-sample is a simple imprementation for express-sharp-server",
+  "main": "server.js",
+  "author": "Marcel Bretschneider <info@3epnm.de>",
+  "homepage": "https://github.com/3epnm/express-sharp-server-sample",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-sharp-server": "0.0.3",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.7",
+    "passport": "^0.4.0",
+    "passport-http-bearer": "^1.0.1",
+    "rotating-file-stream": "^1.3.9",
+    "underscore": "^1.9.1",
+    "winston": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/3epnm/express-sharp-server-sample"
+  }
+}
