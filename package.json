@@ -8,7 +8,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.16.4",
-    "express-sharp-server": "0.0.3",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.7",
     "passport": "^0.4.0",
